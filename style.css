@@ -136,13 +136,13 @@ input.search-input {
 
 @media screen and (min-width: 768px) {
     .content-wrapper__main {
-        width: 70%;
+        width: 68%;
     }
 }
 
 .content-wrapper__aside {
     display: none;
-    width: 30%;
+    width: 32%;
 }
 
 @media screen and (min-width: 768px) {
@@ -161,12 +161,9 @@ input.search-input {
     background-color: #fff;
     border: 1px solid #dbdbdb;
     border-radius: 7px;
-    overflow-x: hidden;     
-}
-
-.stories:hover {
     overflow-x: scroll;
 }
+
 
 .stories__item {
     display: flex;
