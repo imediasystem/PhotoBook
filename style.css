@@ -49,6 +49,8 @@ a {
 /* -- Page Header -- */
 
 .page-header {
+    position: sticky;
+    top: 0;
     margin-bottom: 30px;
     padding: 10px 0;
     background-color: #ffffff;
