@@ -13,6 +13,10 @@ body {
     background-color: #efefef;
 }
 
+main {
+    margin-bottom: 30px;
+}
+
 input[type="text"] {
     height: 36px;
     padding: 3px 15px;
@@ -323,4 +327,24 @@ input.search-input {
 
 .post__add-comment img {
     margin-right: 10px;
+}
+
+/* -- Page Footer -- */
+
+.page-footer {
+    padding: 15px 0;
+    font-size: 12px;
+}
+
+.page-footer__copyrights,
+.page-footer__nav a {
+    color: #969696;
+}
+
+.page-footer__nav a {
+    margin-right: 10px;
+}
+
+.page-footer__nav a:last-child {
+    margin-right: 0;
 }
