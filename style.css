@@ -60,7 +60,8 @@ a {
 }
 
 .page-header__logo {
-    flex-shrink: 0;
+    flex-shrink: 1;
+    max-width: 100%;
 }
 
 .page-header__search {
