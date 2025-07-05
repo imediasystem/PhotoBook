@@ -265,3 +265,62 @@ input.search-input {
     font-size: 12px;
     font-weight: bold;
 }
+
+/* -- Post Section -- */
+
+.post {
+    margin-bottom: 20px;
+    background-color: #ffffff;
+    border: 1px solid #dbdbdb;
+    border-radius: 7px;
+}
+
+.post:last-child {
+    margin-bottom: 0;
+}
+.post__header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+.post__content {
+    padding: 15px;
+}
+
+.post__actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+.post__likes {
+    margin-bottom: 15px;
+}
+
+.post__comments-item {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.post_comments-item:last-child {
+    margin-bottom: 0;
+}
+
+.post__add-comment {
+    display: flex;
+    align-items: center;
+    gap: 15;
+    padding: 15px;
+    border-top: 1px solid #efefef;
+}
+
+.post__add-comment input {
+    width: 100%;
+}
+
+.post__add-comment img {
+    margin-right: 10px;
+}
