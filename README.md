@@ -1,5 +1,5 @@
 ## 🔥 Project Name - PHOTOBOOK
-See the live version of [PHOTOBOOK](https://imediasystem.github.io/EasyBank/)
+See the live version of [PHOTOBOOK](https://imediasystem.github.io/PhotoBook/)
 
 This is a project of a social networking site where users can create accounts and share their photos with friends and other users. The project shows technical possibilities acquired during the frontend course including design, HTML, CSS, JavaScript and jQuery.
 &nbsp;
@@ -11,4 +11,8 @@ This is a project of a social networking site where users can create accounts an
 ![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
 ![SASS](https://img.shields.io/badge/sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)
+&nbsp;
+
+## 💿 Installation
+Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
 &nbsp;
