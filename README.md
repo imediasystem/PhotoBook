@@ -1,7 +1,9 @@
+![PhotoBook](https://github.com/user-attachments/assets/17fd07cc-cdf1-47ae-a96d-346fbd97a8bf)
+
 ## 🔥 Project Name - PHOTOBOOK
 See the live version of [PHOTOBOOK](https://imediasystem.github.io/PhotoBook/)
 
-This is a project of a social networking site where users can create accounts and share their photos with friends and other users. The project shows technical possibilities acquired during the frontend course including design, HTML, CSS, JavaScript and jQuery.
+This is a layout project of a social networking site where users can create accounts and share their photos with friends and other users. The project shows technical possibilities acquired during the frontend course including design, HTML, CSS, JavaScript and jQuery.
 &nbsp;
 
 ## 📚 Technologies / Frameworks / Platforms / Libraries
