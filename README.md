@@ -1,6 +1,6 @@
 <img width="1886" height="918" alt="Layout_02" src="https://github.com/user-attachments/assets/20b6313e-f27d-46aa-967b-7de5f200c744" />
 
-## 🔥 Project Name - PHOTOBOOK
+## 🔥 Project Name - PhotoBook
 See the live version of [PhotoBook](https://imediasystem.github.io/PhotoBook/)
 
 This is a layout project of a social networking site where users can create accounts and share their photos with friends and other users. The project shows technical possibilities acquired during the frontend course including design, HTML5 & CSS3.
